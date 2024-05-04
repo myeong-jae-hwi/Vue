@@ -7,7 +7,8 @@ Vue 공부하기
   <summary>
     05.01 
   </summary> 
-  ✏️ 레파지토리 생성 및 5강 강의자료 업로드
+  ✏️ 레파지토리 생성 
+  ✏️ 5강 강의자료 업로드
 </details>
 <details>
   <summary> 
