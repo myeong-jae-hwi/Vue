@@ -6,6 +6,11 @@ const app = Vue.createApp({
       box_C: false 
     }
   },
+  computed: {
+    boxAClasses(){
+      return {active: this.box_A};
+    }
+  },
   methods:{
     clickBox(box){
       console.log(box)
